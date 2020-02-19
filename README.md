@@ -1,2 +1,0 @@
-# School
-Created with CodeSandbox
